@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+}
+
+.post {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+
+.post1 {
+    width: 450px;
+    background-color: white;
+
+}
+
+.post2 {
+    width: 450px;
+    background-color: white;
+}
+
+.post3 {
+    width: 450px;
+    background-color: white;
+}
+
+.post4 {
+    width: 450px;
+    background-color: white;
+}
+
+.titulo {
+    margin: 3px;
+    padding: 10px;
+    margin-top: 5px;
+
+}
+
+.numeros {
+    text-align: end;
+    margin-top: -30px;
+    margin-right: 5px;
+    margin-bottom: -3;
+    color: gainsboro;
+}
+
+.descripcion {
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    font-size: small;
+    margin: 5px;
+    padding: 10px;
+}
+
+.titulo-principal {
+    background-color: white;
+    margin: auto;
+    width: 150%;
+    padding: 20px;
+    padding-left: 315px;
+}
